@@ -1,9 +1,7 @@
-# JustChat
+# Convo
 
 A messaging service app that provides users with a real-time chat experience. Users can sign up or sign in using their email and password. The app features a clean and intuitive UI, allowing for seamless communication between users.
 
-## System Design Document
-[View Document](https://docs.google.com/document/d/10YoI5fRNB7dI55H-4o5YCKDsuYd25mPj60k_Uf8yWog/edit?usp=sharing)
 
 ## Author Info
 - **Author**: Saksham Singh
@@ -22,7 +20,7 @@ Download the repository as a zip file and extract it, or open your terminal and 
 git clone https://github.com/Exynos21/JustChat
 ```
 ### Setup Database
-1. Use MongoDB Compass to create a new database named `JustChat`.
+1. Use MongoDB Compass to create a new database named `Convo`.
 2. Create collections for **Users**, **Messages**, and **Groups** as described in the system design document.
 
 ### Set up Environment Variables
