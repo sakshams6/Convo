@@ -6,12 +6,12 @@ A messaging service app that provides users with a real-time chat experience. Us
 [View Document](https://docs.google.com/document/d/10YoI5fRNB7dI55H-4o5YCKDsuYd25mPj60k_Uf8yWog/edit?usp=sharing)
 
 ## Author Info
-- **Author**: Tanay
+- **Author**: Saksham Singh
 - **University**: Indian Institute of Technology (IIT), Patna
 - **Department**: Artificial Intelligence and Data Science
-- **Roll No**: 2201AI39
-- **Institute Mail-ID**: 2201ai39_tanay@iitp.ac.in
-- **Personal Mail-ID**: tanaychhajed@gmail.com
+- **Roll No**: 2201AI33
+- **Institute Mail-ID**: 2201ai33_saksham@iitp.ac.in
+- **Personal Mail-ID**: meetsakshamsingh@gmail.com
 
 ## Steps to Run the App
 
